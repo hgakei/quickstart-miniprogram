@@ -19,7 +19,7 @@
     "miniprogram-navigation-bar": "0.0.4",
     "miniprogram-recycle-view": "0.0.6",
     "miniprogram-slide-view": "0.0.3",
-    "wapp-cli": "^0.0.71"
+    "wapp-cli": "^0.0.78"
   },
   "devDependencies": {
     "@babel/plugin-proposal-class-properties": "^7.3.0",
